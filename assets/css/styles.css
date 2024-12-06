@@ -1,6 +1,5 @@
 /* DEVELOPER: Marwa Monsour, IS117-001, Fall 2024 */
 
-/* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -12,7 +11,6 @@ body {
     min-height: 100vh;
 }
 
-/* Header */
 header {
     background: linear-gradient(to right, #138d8d, #008080);
     color: #fff;
@@ -28,7 +26,6 @@ header p {
     font-size: 1.2rem;
 }
 
-/* Navbar */
 .navbar {
     margin-bottom: 20px;
 }
@@ -38,13 +35,11 @@ header p {
     font-weight: bold;
 }
 
-/* Main Content */
 main {
     padding: 20px;
     flex: 1; 
 }
 
-/* Cards */
 .card {
     margin: 10px 0;
     border: 1px solid #ddd;
@@ -61,7 +56,6 @@ main {
     font-size: 1rem;
 }
 
-/* Footer */
 footer {
     background-color: #C3B1E1;
     color: #fff;
@@ -74,7 +68,6 @@ footer p {
     font-size: 0.9rem;
 }
 
-/* Contact Form */
 form {
     max-width: 600px;
     margin: 20px auto;
@@ -88,7 +81,6 @@ form .btn {
     width: 100%;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2rem;

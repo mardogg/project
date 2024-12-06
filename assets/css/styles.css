@@ -1,4 +1,4 @@
-/* DEVELOPER: Your Name, IS117-xxx, Spring 2024 */
+/* DEVELOPER: Marwa Monsour, IS117-001, Fall 2024 */
 
 /* General Styles */
 body {
@@ -41,7 +41,7 @@ header p {
 /* Main Content */
 main {
     padding: 20px;
-    flex: 1; /* This will allow the main content to grow and take available space */
+    flex: 1; 
 }
 
 /* Cards */
@@ -66,10 +66,9 @@ footer {
     background-color: #C3B1E1;
     color: #fff;
     padding: 10px 0;
-    text-align: center; /* Center the footer text */
+    text-align: center;
 }
 
-/* Footer text styling */
 footer p {
     margin: 0;
     font-size: 0.9rem;
